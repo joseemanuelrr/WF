@@ -1,3 +1,7 @@
+/* AUTOR: Jose Rojas 
+   Junio/2012 
+*/
+
 #include "iostream"
 #include <stdio.h>
 #include <windows.h>
@@ -64,7 +68,7 @@ void Start(){
 void Bienvenida(){
 	Sleep(1000);
 	cout << "\t\t\t---------------------------------" << endl; 
-	cout << "\t\t\tº\t     Wif 1.0\t\tº\n \t\t\tº\t  By: Jose Rojas\tº" << endl; 
+	cout << "\t\t\tÂº\t     Wif 1.0\t\tÂº\n \t\t\tÂº\t  By: Jose Rojas\tÂº" << endl; 
 	Sleep(1000);
 	cout << "\t\t\t---------------------------------" << endl; 
 }
