@@ -55,7 +55,6 @@ void Start(){
 	while (fgets(programa, 100, fp) != NULL){
 		fputs(programa, fp);
 	}
-	/*fgets(programa,100,fp); */ //atajo para la linea de codigo 36 sub8
 	cout << endl;
 	fclose(fp);
 	system(programa);
